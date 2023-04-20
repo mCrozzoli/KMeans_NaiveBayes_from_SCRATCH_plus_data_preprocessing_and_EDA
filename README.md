@@ -1,4 +1,4 @@
-#Learning Data Mining
+# Learning Data Mining
 
 In my first exam for the Data Mining course at ITU in Copenhagen, I tackled the challenge of **building KMeans and Naive Bayes algorithms from scratch**, as well as pre-processing data and performing exploratory data analysis (EDA).
 
