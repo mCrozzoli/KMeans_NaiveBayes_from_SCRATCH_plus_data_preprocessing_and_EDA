@@ -1,9 +1,11 @@
-# learning_data_mining
-Learning how to pre-process data, K-means clustering and Naive Bayes (writing my own algorithm)
+#Learning Data Mining
 
-This was my first exam for the subject Data Mining at ITU in Copenhagen.
-The main goal of this assigment was:
-* To learn hwo to clean the data and get it ready to use it.
-* Understand the data and ask proper questions to it.
-* Create an algorithm for clustering (K-means), run it, and understand the results.
-* Create an algorithm for unsupervised prediction (Naive Bayes), run it, and understand the results.
+In my first exam for the Data Mining course at ITU in Copenhagen, I tackled the challenge of **building KMeans and Naive Bayes algorithms from scratch**, as well as pre-processing data and performing exploratory data analysis (EDA).
+
+The primary objective of the assignment was to gain expertise in various data mining techniques. To accomplish this, I focused on:
+1. Cleaning and preparing data for analysis
+2. Understanding the data and formulating relevant questions
+3. Developing a clustering algorithm (K-means), executing it, and interpreting the outcomes
+4. Developing an unsupervised prediction algorithm (Naive Bayes), executing it, and interpreting the results
+
+Overall, this experience helped me gain a deeper understanding of the intricacies of data mining and enabled me to hone my skills in data pre-processing, EDA, and algorithm development.
